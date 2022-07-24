@@ -37,3 +37,10 @@ Independent − Independency and flexible connectivity of components. Independen
 
 
 Source: https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm
+
+
+## Props of React:
+
+Props stand for properties, and are Read-Only, that means. a function or class never modifies its own props.
+
+
