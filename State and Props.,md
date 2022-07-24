@@ -1,0 +1,11 @@
+#React Lifecycle
+
+componentDidMount happens first.
+The very first thing to happen is Mounting (constructor)
+
+Order:
+
+constructor >> componentDidMount >> render >> React Updates >> componentWillUnmount
+
+
+componentDidMount loads anything using a network request or initialize the DOM
