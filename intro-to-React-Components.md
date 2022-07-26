@@ -44,3 +44,12 @@ Source: https://www.tutorialspoint.com/software_architecture_design/component_ba
 Props stand for properties, and are Read-Only, that means. a function or class never modifies its own props.
 
 
+What is “props” short for?
+Properties.
+
+How are props used in React?
+As HTML attributes.
+
+What is the flow of props?
+Uni-directional flow.
+
