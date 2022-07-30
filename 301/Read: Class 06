@@ -1,0 +1,27 @@
+Read: Class 06
+
+What is node.js?
+It is a JavaScript runtime built on Chrome’s V8 JavaScript engine
+
+In your own words, what is Chrome’s V8 JavaScript Engine?
+
+It is Google Chrome browser engine that executes JavaScript code
+
+What does it mean that node is a JavaScript runtime?
+It means we can run JavaScript in our computers (not only the web browser) and can be used for Software programs with a runtime environment.
+
+What is npm?
+Node Package Manager, a package manager that comes bundled with Node.
+
+What version of node are you running on your machine?
+
+18.4.0
+
+What version of npm are you running on your machine?
+8.12.1
+
+What command would you type to install a library/package called ‘jshint’?
+npm install jshint
+
+What is node used for?
+For non-blocking, event-driven servers, to build full stack applications with high performance.
