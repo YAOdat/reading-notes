@@ -1,6 +1,6 @@
 **1. What is a ‘call’?**
 
-It is a data structure that uses the Last-In First-Out (LIFO) principle to temporarily store and manage function invocation.
+It is a data structure that uses the Last-In-First-Out (LIFO) principle to temporarily store and manage function invocation.
 
 **2. How many ‘calls’ can happen at once?**
 
@@ -25,7 +25,7 @@ A recursive function without an exit point.
 
 ____________________________________
 
-**1. What is a ‘refrence error’?**
+**1. What is a ‘reference error’?**
 
 An error that occurs when a variable is not declared yet is being called.
 
