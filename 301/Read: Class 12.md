@@ -81,4 +81,4 @@ What is the difference between a status 200 and a status 201?
 
  200 - request received and is processing.
  
- 201 - request received, was successful, and has result of created resource.
+ 201 - request received, was successful, and resulted from the created resource..
