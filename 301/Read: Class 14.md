@@ -2,7 +2,7 @@
 ## Diversity & Inclusion in the Tech Industry
 
 
-### What occured during the same time as the beginning of the decline of women in computer sciene ?
+### What occurred during the same time as the beginning of the decline of women in computer sciene ?
 
 The share of women in computer science started falling at roughly the same moment when personal computers started showing up in U.S. homes in significant numbers.
 These early personal computers weren't much more than toys. You could play pong or simple shooting games, maybe do some word processing. And these toys were marketed almost entirely to men and boys. This idea that computers are for boys became a narrative. It became the story we told ourselves about the computing revolution. It helped define who geeks were, and it created techie culture.
