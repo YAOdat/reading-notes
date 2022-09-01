@@ -13,9 +13,13 @@ Repeated often
 
 
 
+## Carol Dweck on the Growth Mindset
+
+Give yourself time to succeed, make challenges out of difficulties, and engage with the error instead of running away from it. These three points can bring you a growth mindset.
 
 
+##  Angela Lee Duckworth on Grit
 
-
+Grit and persistence are some of the keys to succeed as a programmer.
 
 [1]: https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice
