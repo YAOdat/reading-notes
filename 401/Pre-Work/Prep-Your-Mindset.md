@@ -22,4 +22,14 @@ Give yourself time to succeed, make challenges out of difficulties, and engage w
 
 Grit and persistence are some of the keys to succeed as a programmer.
 
+## Measuring Emotional Intelligence
+
+I am excellent when it comes to self-awareness and self-management, and very good when it comes to relationship management, however I need to spend more time improving my social awareness. Things are getting better.
+
+
+## Assessing Bias
+
+I have high self awareness, curiosity, and courage. But this is not a
+topic I ever master. I should continue your journey in this area by examining. It seems that I have done better than the last time I took this assessment, however, I still have room for improvement.
+
 [1]: https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice
