@@ -34,5 +34,5 @@ Arrays must be stored next to each other in memory, meanwhile, linked lists can 
 
 ![image](https://user-images.githubusercontent.com/108061232/188967114-72e08d0b-da2c-4fa1-8a1c-492da6e32e48.png)
 
-This type of storing has positive and negative sides. Unlike the array, you can't just access directly to the data that you want to access to, but you need to go through the linked list till you find the element that you want. However, with this, the linked list saves more memory than an array does.
+This type of storing has positive and negative sides. Unlike the array, you can't just access directly to the data that you want to access to, but you need to go through the linked list till you find the element that you want. However, with this, the linked list saves more memory than an array does. Also, in the linked list it is much easier to insert, or delete an element, that is because of the way the linked list stores data.
 
